@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"liga.common.commonmodule", "liga.common.commonmodule.service"})
+@ComponentScan(basePackages = {"liga.common.commonmodule", "liga.common.commonmodule.core"})
 public class CommonModuleApplication {
 
     public static void main(String[] args) {
