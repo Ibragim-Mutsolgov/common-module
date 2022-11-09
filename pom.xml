@@ -14,11 +14,11 @@
 
     <modules>
         <module>build-tools</module>
-        <module>dto</module>
+        <module>common-dto</module>
         <module>common-services</module>
         <module>dependency-management-bom</module>
         <module>common-utils</module>
-        <module>core</module>
+        <module>common-core</module>
     </modules>
 
     <properties>
